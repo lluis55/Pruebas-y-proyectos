@@ -1,0 +1,2253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="menuStrip1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="menúToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 22</value>
+  </data>
+  <data name="menúToolStripMenuItem.Text" xml:space="preserve">
+    <value>menú</value>
+  </data>
+  <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 22</value>
+  </data>
+  <data name="toolStripMenuItem2.Text" xml:space="preserve">
+    <value>5$</value>
+  </data>
+  <data name="aguaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="aguaToolStripMenuItem.Text" xml:space="preserve">
+    <value>agua</value>
+  </data>
+  <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem3.Text" xml:space="preserve">
+    <value>20$</value>
+  </data>
+  <data name="refrescoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="refrescoToolStripMenuItem.Text" xml:space="preserve">
+    <value>refresco</value>
+  </data>
+  <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem4.Text" xml:space="preserve">
+    <value>15$</value>
+  </data>
+  <data name="teToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="teToolStripMenuItem.Text" xml:space="preserve">
+    <value>té</value>
+  </data>
+  <data name="toolStripMenuItem5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem5.Text" xml:space="preserve">
+    <value>15$</value>
+  </data>
+  <data name="aguasDeSaborToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="aguasDeSaborToolStripMenuItem.Text" xml:space="preserve">
+    <value>aguas de sabor</value>
+  </data>
+  <data name="toolStripMenuItem6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem6.Text" xml:space="preserve">
+    <value>20$</value>
+  </data>
+  <data name="caféToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="caféToolStripMenuItem.Text" xml:space="preserve">
+    <value>café</value>
+  </data>
+  <data name="toolStripMenuItem7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem7.Text" xml:space="preserve">
+    <value>25$</value>
+  </data>
+  <data name="chocolateToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>153, 22</value>
+  </data>
+  <data name="chocolateToolStripMenuItem.Text" xml:space="preserve">
+    <value>chocolate</value>
+  </data>
+  <data name="bebidasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 22</value>
+  </data>
+  <data name="bebidasToolStripMenuItem.Text" xml:space="preserve">
+    <value>bebidas</value>
+  </data>
+  <data name="toolStripMenuItem11.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem11.Text" xml:space="preserve">
+    <value>60$</value>
+  </data>
+  <data name="conHuevoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="conHuevoToolStripMenuItem.Text" xml:space="preserve">
+    <value>con huevo</value>
+  </data>
+  <data name="toolStripMenuItem10.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem10.Text" xml:space="preserve">
+    <value>60$</value>
+  </data>
+  <data name="conPolloToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="conPolloToolStripMenuItem.Text" xml:space="preserve">
+    <value>con pollo</value>
+  </data>
+  <data name="toolStripMenuItem9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem9.Text" xml:space="preserve">
+    <value>75$</value>
+  </data>
+  <data name="conCarneToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="conCarneToolStripMenuItem.Text" xml:space="preserve">
+    <value>con carne</value>
+  </data>
+  <data name="toolStripMenuItem8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem8.Text" xml:space="preserve">
+    <value>55$</value>
+  </data>
+  <data name="cencillosToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>130, 22</value>
+  </data>
+  <data name="cencillosToolStripMenuItem.Text" xml:space="preserve">
+    <value>cencillos</value>
+  </data>
+  <data name="chilaquilesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="chilaquilesToolStripMenuItem.Text" xml:space="preserve">
+    <value>chilaquiles</value>
+  </data>
+  <data name="toolStripMenuItem12.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem12.Text" xml:space="preserve">
+    <value>100$</value>
+  </data>
+  <data name="quesoToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="quesoToolStripMenuItem.Text" xml:space="preserve">
+    <value>queso</value>
+  </data>
+  <data name="toolStripMenuItem13.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem13.Text" xml:space="preserve">
+    <value>120$</value>
+  </data>
+  <data name="pepperoniToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="pepperoniToolStripMenuItem.Text" xml:space="preserve">
+    <value>pepperoni</value>
+  </data>
+  <data name="toolStripMenuItem14.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem14.Text" xml:space="preserve">
+    <value>120$</value>
+  </data>
+  <data name="hawaiToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="hawaiToolStripMenuItem.Text" xml:space="preserve">
+    <value>hawaiana</value>
+  </data>
+  <data name="toolStripMenuItem15.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem15.Text" xml:space="preserve">
+    <value>115$</value>
+  </data>
+  <data name="champiñonToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="champiñonToolStripMenuItem.Text" xml:space="preserve">
+    <value>champiñon</value>
+  </data>
+  <data name="pizzaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="pizzaToolStripMenuItem.Text" xml:space="preserve">
+    <value>pizza</value>
+  </data>
+  <data name="toolStripMenuItem16.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 22</value>
+  </data>
+  <data name="toolStripMenuItem16.Text" xml:space="preserve">
+    <value>85$ </value>
+  </data>
+  <data name="toolStripMenuItem17.Size" type="System.Drawing.Size, System.Drawing">
+    <value>95, 22</value>
+  </data>
+  <data name="toolStripMenuItem17.Text" xml:space="preserve">
+    <value>90$</value>
+  </data>
+  <data name="normalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 22</value>
+  </data>
+  <data name="normalToolStripMenuItem.Text" xml:space="preserve">
+    <value>normal</value>
+  </data>
+  <data name="picanteToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>113, 22</value>
+  </data>
+  <data name="picanteToolStripMenuItem.Text" xml:space="preserve">
+    <value>picante</value>
+  </data>
+  <data name="jambalayaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="jambalayaToolStripMenuItem.Text" xml:space="preserve">
+    <value>jambalaya</value>
+  </data>
+  <data name="toolStripMenuItem18.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 22</value>
+  </data>
+  <data name="toolStripMenuItem18.Text" xml:space="preserve">
+    <value>90$</value>
+  </data>
+  <data name="patatasBravasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="patatasBravasToolStripMenuItem.Text" xml:space="preserve">
+    <value>patatas bravas</value>
+  </data>
+  <data name="toolStripMenuItem21.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem21.Text" xml:space="preserve">
+    <value>130$</value>
+  </data>
+  <data name="raguToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="raguToolStripMenuItem.Text" xml:space="preserve">
+    <value>ragu</value>
+  </data>
+  <data name="toolStripMenuItem20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem20.Text" xml:space="preserve">
+    <value>100$</value>
+  </data>
+  <data name="champiñonToolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="champiñonToolStripMenuItem1.Text" xml:space="preserve">
+    <value>champiñon</value>
+  </data>
+  <data name="toolStripMenuItem19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem19.Text" xml:space="preserve">
+    <value>120$</value>
+  </data>
+  <data name="espinacaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>135, 22</value>
+  </data>
+  <data name="espinacaToolStripMenuItem.Text" xml:space="preserve">
+    <value>espinaca</value>
+  </data>
+  <data name="lasagnaToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="lasagnaToolStripMenuItem.Text" xml:space="preserve">
+    <value>lasagna</value>
+  </data>
+  <data name="toolStripMenuItem22.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem22.Text" xml:space="preserve">
+    <value>120$</value>
+  </data>
+  <data name="polloToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="polloToolStripMenuItem.Text" xml:space="preserve">
+    <value>pollo</value>
+  </data>
+  <data name="toolStripMenuItem23.Size" type="System.Drawing.Size, System.Drawing">
+    <value>98, 22</value>
+  </data>
+  <data name="toolStripMenuItem23.Text" xml:space="preserve">
+    <value>130$</value>
+  </data>
+  <data name="resToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="resToolStripMenuItem.Text" xml:space="preserve">
+    <value>res</value>
+  </data>
+  <data name="xdSosMuyCuriosaUwuToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>204, 22</value>
+  </data>
+  <data name="xdSosMuyCuriosaUwuToolStripMenuItem.Text" xml:space="preserve">
+    <value>xd, sos muy curiosa uwu</value>
+  </data>
+  <data name="molloConPoleToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>154, 22</value>
+  </data>
+  <data name="molloConPoleToolStripMenuItem.Text" xml:space="preserve">
+    <value>mollo con pole</value>
+  </data>
+  <data name="milanesasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>149, 22</value>
+  </data>
+  <data name="milanesasToolStripMenuItem.Text" xml:space="preserve">
+    <value>milanesas</value>
+  </data>
+  <data name="comidasToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
+    <value>119, 22</value>
+  </data>
+  <data name="comidasToolStripMenuItem.Text" xml:space="preserve">
+    <value>comidas</value>
+  </data>
+  <data name="MENÚ.Size" type="System.Drawing.Size, System.Drawing">
+    <value>53, 20</value>
+  </data>
+  <data name="MENÚ.Text" xml:space="preserve">
+    <value>MENÚ</value>
+  </data>
+  <data name="menuStrip1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="menuStrip1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>854, 24</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="menuStrip1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="menuStrip1.Text" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Name" xml:space="preserve">
+    <value>menuStrip1</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.MenuStrip, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;menuStrip1.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="label1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Unispace, 9pt, style=Bold</value>
+  </data>
+  <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>151, 24</value>
+  </data>
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>70, 14</value>
+  </data>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>Cafeteria</value>
+  </data>
+  <data name="&gt;&gt;label1.Name" xml:space="preserve">
+    <value>label1</value>
+  </data>
+  <data name="&gt;&gt;label1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textpastel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>137, 179</value>
+  </data>
+  <data name="textpastel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textpastel.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="textpastel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="textpastel.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textpastel.Name" xml:space="preserve">
+    <value>textpastel</value>
+  </data>
+  <data name="&gt;&gt;textpastel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textpastel.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textpastel.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textalfajor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 148</value>
+  </data>
+  <data name="textalfajor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textalfajor.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="textalfajor.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textalfajor.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textalfajor.Name" xml:space="preserve">
+    <value>textalfajor</value>
+  </data>
+  <data name="&gt;&gt;textalfajor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textalfajor.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textalfajor.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textsandwich.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 117</value>
+  </data>
+  <data name="textsandwich.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textsandwich.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="textsandwich.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textsandwich.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textsandwich.Name" xml:space="preserve">
+    <value>textsandwich</value>
+  </data>
+  <data name="&gt;&gt;textsandwich.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textsandwich.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textsandwich.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textensalada.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 88</value>
+  </data>
+  <data name="textensalada.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textensalada.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="textensalada.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textensalada.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textensalada.Name" xml:space="preserve">
+    <value>textensalada</value>
+  </data>
+  <data name="&gt;&gt;textensalada.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textensalada.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textensalada.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textpanini.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 59</value>
+  </data>
+  <data name="textpanini.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textpanini.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="textpanini.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textpanini.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textpanini.Name" xml:space="preserve">
+    <value>textpanini</value>
+  </data>
+  <data name="&gt;&gt;textpanini.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textpanini.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textpanini.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textpandulce.Location" type="System.Drawing.Point, System.Drawing">
+    <value>134, 31</value>
+  </data>
+  <data name="textpandulce.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textpandulce.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="textpandulce.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textpandulce.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textpandulce.Name" xml:space="preserve">
+    <value>textpandulce</value>
+  </data>
+  <data name="&gt;&gt;textpandulce.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textpandulce.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;textpandulce.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkpastel.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkpastel.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkpastel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 183</value>
+  </data>
+  <data name="chkpastel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 25</value>
+  </data>
+  <data name="chkpastel.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="chkpastel.Text" xml:space="preserve">
+    <value>Pastel</value>
+  </data>
+  <data name="&gt;&gt;chkpastel.Name" xml:space="preserve">
+    <value>chkpastel</value>
+  </data>
+  <data name="&gt;&gt;chkpastel.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkpastel.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chkpastel.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="chkalfajor.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkalfajor.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkalfajor.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 152</value>
+  </data>
+  <data name="chkalfajor.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 25</value>
+  </data>
+  <data name="chkalfajor.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkalfajor.Text" xml:space="preserve">
+    <value>Alfajor</value>
+  </data>
+  <data name="&gt;&gt;chkalfajor.Name" xml:space="preserve">
+    <value>chkalfajor</value>
+  </data>
+  <data name="&gt;&gt;chkalfajor.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkalfajor.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chkalfajor.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chksandwich.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chksandwich.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chksandwich.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 121</value>
+  </data>
+  <data name="chksandwich.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 25</value>
+  </data>
+  <data name="chksandwich.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chksandwich.Text" xml:space="preserve">
+    <value>Sandwich</value>
+  </data>
+  <data name="&gt;&gt;chksandwich.Name" xml:space="preserve">
+    <value>chksandwich</value>
+  </data>
+  <data name="&gt;&gt;chksandwich.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chksandwich.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chksandwich.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="chkensalada.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkensalada.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkensalada.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 90</value>
+  </data>
+  <data name="chkensalada.Size" type="System.Drawing.Size, System.Drawing">
+    <value>97, 25</value>
+  </data>
+  <data name="chkensalada.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="chkensalada.Text" xml:space="preserve">
+    <value>Ensalada</value>
+  </data>
+  <data name="&gt;&gt;chkensalada.Name" xml:space="preserve">
+    <value>chkensalada</value>
+  </data>
+  <data name="&gt;&gt;chkensalada.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkensalada.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chkensalada.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="chkpanini.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkpanini.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkpanini.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 59</value>
+  </data>
+  <data name="chkpanini.Size" type="System.Drawing.Size, System.Drawing">
+    <value>78, 25</value>
+  </data>
+  <data name="chkpanini.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="chkpanini.Text" xml:space="preserve">
+    <value>Panini</value>
+  </data>
+  <data name="&gt;&gt;chkpanini.Name" xml:space="preserve">
+    <value>chkpanini</value>
+  </data>
+  <data name="&gt;&gt;chkpanini.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkpanini.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chkpanini.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chkpandulce.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkpandulce.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="chkpandulce.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 25</value>
+  </data>
+  <data name="chkpandulce.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="chkpandulce.Text" xml:space="preserve">
+    <value>Pan de dulce</value>
+  </data>
+  <data name="&gt;&gt;chkpandulce.Name" xml:space="preserve">
+    <value>chkpandulce</value>
+  </data>
+  <data name="&gt;&gt;chkpandulce.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkpandulce.Parent" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;chkpandulce.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="groupBox1.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>14, 85</value>
+  </data>
+  <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>240, 239</value>
+  </data>
+  <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="groupBox1.Text" xml:space="preserve">
+    <value>ALIMENTOS</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Name" xml:space="preserve">
+    <value>groupBox1</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textirlandes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 181</value>
+  </data>
+  <data name="textirlandes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textirlandes.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="textirlandes.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textirlandes.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textirlandes.Name" xml:space="preserve">
+    <value>textirlandes</value>
+  </data>
+  <data name="&gt;&gt;textirlandes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textirlandes.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textirlandes.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 148</value>
+  </data>
+  <data name="textte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textte.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="textte.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textte.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textte.Name" xml:space="preserve">
+    <value>textte</value>
+  </data>
+  <data name="&gt;&gt;textte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textte.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textte.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textchocolate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 117</value>
+  </data>
+  <data name="textchocolate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textchocolate.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="textchocolate.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textchocolate.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textchocolate.Name" xml:space="preserve">
+    <value>textchocolate</value>
+  </data>
+  <data name="&gt;&gt;textchocolate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textchocolate.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textchocolate.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textexpreso.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 88</value>
+  </data>
+  <data name="textexpreso.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textexpreso.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="textexpreso.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textexpreso.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textexpreso.Name" xml:space="preserve">
+    <value>textexpreso</value>
+  </data>
+  <data name="&gt;&gt;textexpreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textexpreso.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textexpreso.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textlatte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 59</value>
+  </data>
+  <data name="textlatte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textlatte.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="textlatte.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textlatte.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textlatte.Name" xml:space="preserve">
+    <value>textlatte</value>
+  </data>
+  <data name="&gt;&gt;textlatte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textlatte.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textlatte.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textamericano.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 31</value>
+  </data>
+  <data name="textamericano.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textamericano.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="textamericano.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textamericano.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textamericano.Name" xml:space="preserve">
+    <value>textamericano</value>
+  </data>
+  <data name="&gt;&gt;textamericano.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textamericano.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;textamericano.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkirlandes.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkirlandes.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkirlandes.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 183</value>
+  </data>
+  <data name="chkirlandes.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 25</value>
+  </data>
+  <data name="chkirlandes.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="chkirlandes.Text" xml:space="preserve">
+    <value>Cafe Irlandes</value>
+  </data>
+  <data name="&gt;&gt;chkirlandes.Name" xml:space="preserve">
+    <value>chkirlandes</value>
+  </data>
+  <data name="&gt;&gt;chkirlandes.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkirlandes.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkirlandes.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="chkte.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkte.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 152</value>
+  </data>
+  <data name="chkte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 25</value>
+  </data>
+  <data name="chkte.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="chkte.Text" xml:space="preserve">
+    <value>TE</value>
+  </data>
+  <data name="&gt;&gt;chkte.Name" xml:space="preserve">
+    <value>chkte</value>
+  </data>
+  <data name="&gt;&gt;chkte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkte.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkte.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chkchocolate.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkchocolate.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkchocolate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 121</value>
+  </data>
+  <data name="chkchocolate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>106, 25</value>
+  </data>
+  <data name="chkchocolate.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="chkchocolate.Text" xml:space="preserve">
+    <value>Chocolate</value>
+  </data>
+  <data name="&gt;&gt;chkchocolate.Name" xml:space="preserve">
+    <value>chkchocolate</value>
+  </data>
+  <data name="&gt;&gt;chkchocolate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkchocolate.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkchocolate.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="chkexpreso.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkexpreso.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkexpreso.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 90</value>
+  </data>
+  <data name="chkexpreso.Size" type="System.Drawing.Size, System.Drawing">
+    <value>127, 25</value>
+  </data>
+  <data name="chkexpreso.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="chkexpreso.Text" xml:space="preserve">
+    <value>Cafe Expreso</value>
+  </data>
+  <data name="&gt;&gt;chkexpreso.Name" xml:space="preserve">
+    <value>chkexpreso</value>
+  </data>
+  <data name="&gt;&gt;chkexpreso.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkexpreso.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkexpreso.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="chklatte.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chklatte.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chklatte.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 59</value>
+  </data>
+  <data name="chklatte.Size" type="System.Drawing.Size, System.Drawing">
+    <value>105, 25</value>
+  </data>
+  <data name="chklatte.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="chklatte.Text" xml:space="preserve">
+    <value>Cafe Latte</value>
+  </data>
+  <data name="&gt;&gt;chklatte.Name" xml:space="preserve">
+    <value>chklatte</value>
+  </data>
+  <data name="&gt;&gt;chklatte.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chklatte.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chklatte.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chkamericano.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkamericano.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkamericano.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="chkamericano.Size" type="System.Drawing.Size, System.Drawing">
+    <value>150, 25</value>
+  </data>
+  <data name="chkamericano.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="chkamericano.Text" xml:space="preserve">
+    <value>Cafe Americano</value>
+  </data>
+  <data name="&gt;&gt;chkamericano.Name" xml:space="preserve">
+    <value>chkamericano</value>
+  </data>
+  <data name="&gt;&gt;chkamericano.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkamericano.Parent" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;chkamericano.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="groupBox2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>260, 85</value>
+  </data>
+  <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>280, 239</value>
+  </data>
+  <data name="groupBox2.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="groupBox2.Text" xml:space="preserve">
+    <value>BEBIDAS CALIENTES</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Name" xml:space="preserve">
+    <value>groupBox2</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="textcoldblew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 183</value>
+  </data>
+  <data name="textcoldblew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textcoldblew.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="textcoldblew.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textcoldblew.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textcoldblew.Name" xml:space="preserve">
+    <value>textcoldblew</value>
+  </data>
+  <data name="&gt;&gt;textcoldblew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textcoldblew.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textcoldblew.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textsodaitaliana.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 152</value>
+  </data>
+  <data name="textsodaitaliana.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textsodaitaliana.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="textsodaitaliana.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textsodaitaliana.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textsodaitaliana.Name" xml:space="preserve">
+    <value>textsodaitaliana</value>
+  </data>
+  <data name="&gt;&gt;textsodaitaliana.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textsodaitaliana.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textsodaitaliana.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="textsmoothie.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 117</value>
+  </data>
+  <data name="textsmoothie.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textsmoothie.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="textsmoothie.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textsmoothie.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textsmoothie.Name" xml:space="preserve">
+    <value>textsmoothie</value>
+  </data>
+  <data name="&gt;&gt;textsmoothie.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textsmoothie.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textsmoothie.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="texttehelado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 86</value>
+  </data>
+  <data name="texttehelado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="texttehelado.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="texttehelado.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="texttehelado.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;texttehelado.Name" xml:space="preserve">
+    <value>texttehelado</value>
+  </data>
+  <data name="&gt;&gt;texttehelado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;texttehelado.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;texttehelado.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="textfrappe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 55</value>
+  </data>
+  <data name="textfrappe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textfrappe.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="textfrappe.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textfrappe.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textfrappe.Name" xml:space="preserve">
+    <value>textfrappe</value>
+  </data>
+  <data name="&gt;&gt;textfrappe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textfrappe.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textfrappe.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textmalteada.Location" type="System.Drawing.Point, System.Drawing">
+    <value>128, 24</value>
+  </data>
+  <data name="textmalteada.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textmalteada.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="textmalteada.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="textmalteada.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;textmalteada.Name" xml:space="preserve">
+    <value>textmalteada</value>
+  </data>
+  <data name="&gt;&gt;textmalteada.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textmalteada.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;textmalteada.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="chkcoldblew.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkcoldblew.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkcoldblew.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 183</value>
+  </data>
+  <data name="chkcoldblew.Size" type="System.Drawing.Size, System.Drawing">
+    <value>99, 25</value>
+  </data>
+  <data name="chkcoldblew.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="chkcoldblew.Text" xml:space="preserve">
+    <value>coldblew</value>
+  </data>
+  <data name="&gt;&gt;chkcoldblew.Name" xml:space="preserve">
+    <value>chkcoldblew</value>
+  </data>
+  <data name="&gt;&gt;chkcoldblew.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkcoldblew.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chkcoldblew.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="chksodaitaliana.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chksodaitaliana.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chksodaitaliana.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 152</value>
+  </data>
+  <data name="chksodaitaliana.Size" type="System.Drawing.Size, System.Drawing">
+    <value>129, 25</value>
+  </data>
+  <data name="chksodaitaliana.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="chksodaitaliana.Text" xml:space="preserve">
+    <value>Soda italiana</value>
+  </data>
+  <data name="&gt;&gt;chksodaitaliana.Name" xml:space="preserve">
+    <value>chksodaitaliana</value>
+  </data>
+  <data name="&gt;&gt;chksodaitaliana.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chksodaitaliana.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chksodaitaliana.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="chksmoothie.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chksmoothie.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chksmoothie.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 121</value>
+  </data>
+  <data name="chksmoothie.Size" type="System.Drawing.Size, System.Drawing">
+    <value>103, 25</value>
+  </data>
+  <data name="chksmoothie.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="chksmoothie.Text" xml:space="preserve">
+    <value>Smoothie</value>
+  </data>
+  <data name="&gt;&gt;chksmoothie.Name" xml:space="preserve">
+    <value>chksmoothie</value>
+  </data>
+  <data name="&gt;&gt;chksmoothie.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chksmoothie.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chksmoothie.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="chktehelado.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chktehelado.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chktehelado.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 90</value>
+  </data>
+  <data name="chktehelado.Size" type="System.Drawing.Size, System.Drawing">
+    <value>104, 25</value>
+  </data>
+  <data name="chktehelado.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="chktehelado.Text" xml:space="preserve">
+    <value>TÉ helado</value>
+  </data>
+  <data name="&gt;&gt;chktehelado.Name" xml:space="preserve">
+    <value>chktehelado</value>
+  </data>
+  <data name="&gt;&gt;chktehelado.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chktehelado.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chktehelado.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="chkfrappe.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkfrappe.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkfrappe.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 59</value>
+  </data>
+  <data name="chkfrappe.Size" type="System.Drawing.Size, System.Drawing">
+    <value>81, 25</value>
+  </data>
+  <data name="chkfrappe.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="chkfrappe.Text" xml:space="preserve">
+    <value>Frappe</value>
+  </data>
+  <data name="&gt;&gt;chkfrappe.Name" xml:space="preserve">
+    <value>chkfrappe</value>
+  </data>
+  <data name="&gt;&gt;chkfrappe.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkfrappe.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chkfrappe.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="chkmalteada.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="chkmalteada.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="chkmalteada.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 28</value>
+  </data>
+  <data name="chkmalteada.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 25</value>
+  </data>
+  <data name="chkmalteada.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="chkmalteada.Text" xml:space="preserve">
+    <value>Malteada</value>
+  </data>
+  <data name="&gt;&gt;chkmalteada.Name" xml:space="preserve">
+    <value>chkmalteada</value>
+  </data>
+  <data name="&gt;&gt;chkmalteada.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chkmalteada.Parent" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;chkmalteada.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="groupBox3.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>561, 85</value>
+  </data>
+  <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>244, 239</value>
+  </data>
+  <data name="groupBox3.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="groupBox3.Text" xml:space="preserve">
+    <value>BEBIDAS FRIAS</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Name" xml:space="preserve">
+    <value>groupBox3</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnsalir.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnsalir.Location" type="System.Drawing.Point, System.Drawing">
+    <value>189, 71</value>
+  </data>
+  <data name="btnsalir.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 36</value>
+  </data>
+  <data name="btnsalir.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="btnsalir.Text" xml:space="preserve">
+    <value>Salir</value>
+  </data>
+  <data name="&gt;&gt;btnsalir.Name" xml:space="preserve">
+    <value>btnsalir</value>
+  </data>
+  <data name="&gt;&gt;btnsalir.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnsalir.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;btnsalir.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnlimpiar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btnlimpiar.Location" type="System.Drawing.Point, System.Drawing">
+    <value>111, 71</value>
+  </data>
+  <data name="btnlimpiar.Size" type="System.Drawing.Size, System.Drawing">
+    <value>89, 36</value>
+  </data>
+  <data name="btnlimpiar.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="btnlimpiar.Text" xml:space="preserve">
+    <value>Limpiar</value>
+  </data>
+  <data name="&gt;&gt;btnlimpiar.Name" xml:space="preserve">
+    <value>btnlimpiar</value>
+  </data>
+  <data name="&gt;&gt;btnlimpiar.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnlimpiar.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;btnlimpiar.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btncalcular.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 71</value>
+  </data>
+  <data name="btncalcular.Size" type="System.Drawing.Size, System.Drawing">
+    <value>92, 36</value>
+  </data>
+  <data name="btncalcular.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="btncalcular.Text" xml:space="preserve">
+    <value>Calcular</value>
+  </data>
+  <data name="&gt;&gt;btncalcular.Name" xml:space="preserve">
+    <value>btncalcular</value>
+  </data>
+  <data name="&gt;&gt;btncalcular.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btncalcular.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;btncalcular.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="label3.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="label3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>159, 36</value>
+  </data>
+  <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>48, 21</value>
+  </data>
+  <data name="label3.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>Total</value>
+  </data>
+  <data name="&gt;&gt;label3.Name" xml:space="preserve">
+    <value>label3</value>
+  </data>
+  <data name="&gt;&gt;label3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;label3.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="comboBox1.Items" xml:space="preserve">
+    <value>Efectivo</value>
+  </data>
+  <data name="comboBox1.Items1" xml:space="preserve">
+    <value>Tarjerta</value>
+  </data>
+  <data name="comboBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>13, 28</value>
+  </data>
+  <data name="comboBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>121, 29</value>
+  </data>
+  <data name="comboBox1.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Name" xml:space="preserve">
+    <value>comboBox1</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;comboBox1.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="textBox19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 181</value>
+  </data>
+  <data name="textBox19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textBox19.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="&gt;&gt;textBox19.Name" xml:space="preserve">
+    <value>textBox19</value>
+  </data>
+  <data name="&gt;&gt;textBox19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox19.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;textBox19.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="textBox20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>174, 148</value>
+  </data>
+  <data name="textBox20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="textBox20.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="&gt;&gt;textBox20.Name" xml:space="preserve">
+    <value>textBox20</value>
+  </data>
+  <data name="&gt;&gt;textBox20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;textBox20.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;textBox20.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="texttotal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>262, 28</value>
+  </data>
+  <data name="texttotal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>86, 29</value>
+  </data>
+  <data name="texttotal.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="texttotal.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="texttotal.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Center</value>
+  </data>
+  <data name="&gt;&gt;texttotal.Name" xml:space="preserve">
+    <value>texttotal</value>
+  </data>
+  <data name="&gt;&gt;texttotal.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;texttotal.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;texttotal.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="checkBox19.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBox19.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="checkBox19.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 183</value>
+  </data>
+  <data name="checkBox19.Size" type="System.Drawing.Size, System.Drawing">
+    <value>128, 25</value>
+  </data>
+  <data name="checkBox19.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="checkBox19.Text" xml:space="preserve">
+    <value>Cafe Irlandes</value>
+  </data>
+  <data name="&gt;&gt;checkBox19.Name" xml:space="preserve">
+    <value>checkBox19</value>
+  </data>
+  <data name="&gt;&gt;checkBox19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBox19.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;checkBox19.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="checkBox20.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="checkBox20.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="checkBox20.Location" type="System.Drawing.Point, System.Drawing">
+    <value>6, 152</value>
+  </data>
+  <data name="checkBox20.Size" type="System.Drawing.Size, System.Drawing">
+    <value>47, 25</value>
+  </data>
+  <data name="checkBox20.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="checkBox20.Text" xml:space="preserve">
+    <value>TE</value>
+  </data>
+  <data name="&gt;&gt;checkBox20.Name" xml:space="preserve">
+    <value>checkBox20</value>
+  </data>
+  <data name="&gt;&gt;checkBox20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;checkBox20.Parent" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;checkBox20.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="groupBox4.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Segoe UI, 12pt, style=Bold</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>198, 330</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>391, 239</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>METODO DE PAGO</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 15</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>854, 474</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="&gt;&gt;MENÚ.Name" xml:space="preserve">
+    <value>MENÚ</value>
+  </data>
+  <data name="&gt;&gt;MENÚ.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;menúToolStripMenuItem.Name" xml:space="preserve">
+    <value>menúToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;menúToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;bebidasToolStripMenuItem.Name" xml:space="preserve">
+    <value>bebidasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;bebidasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aguaToolStripMenuItem.Name" xml:space="preserve">
+    <value>aguaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;aguaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Name" xml:space="preserve">
+    <value>toolStripMenuItem2</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem2.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;refrescoToolStripMenuItem.Name" xml:space="preserve">
+    <value>refrescoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;refrescoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem3.Name" xml:space="preserve">
+    <value>toolStripMenuItem3</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem3.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;teToolStripMenuItem.Name" xml:space="preserve">
+    <value>teToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;teToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem4.Name" xml:space="preserve">
+    <value>toolStripMenuItem4</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aguasDeSaborToolStripMenuItem.Name" xml:space="preserve">
+    <value>aguasDeSaborToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;aguasDeSaborToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem5.Name" xml:space="preserve">
+    <value>toolStripMenuItem5</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem5.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;caféToolStripMenuItem.Name" xml:space="preserve">
+    <value>caféToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;caféToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem6.Name" xml:space="preserve">
+    <value>toolStripMenuItem6</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem6.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chocolateToolStripMenuItem.Name" xml:space="preserve">
+    <value>chocolateToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;chocolateToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem7.Name" xml:space="preserve">
+    <value>toolStripMenuItem7</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem7.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;comidasToolStripMenuItem.Name" xml:space="preserve">
+    <value>comidasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;comidasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;chilaquilesToolStripMenuItem.Name" xml:space="preserve">
+    <value>chilaquilesToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;chilaquilesToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;conHuevoToolStripMenuItem.Name" xml:space="preserve">
+    <value>conHuevoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;conHuevoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem11.Name" xml:space="preserve">
+    <value>toolStripMenuItem11</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem11.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;conPolloToolStripMenuItem.Name" xml:space="preserve">
+    <value>conPolloToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;conPolloToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem10.Name" xml:space="preserve">
+    <value>toolStripMenuItem10</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem10.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;conCarneToolStripMenuItem.Name" xml:space="preserve">
+    <value>conCarneToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;conCarneToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem9.Name" xml:space="preserve">
+    <value>toolStripMenuItem9</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem9.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;cencillosToolStripMenuItem.Name" xml:space="preserve">
+    <value>cencillosToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;cencillosToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem8.Name" xml:space="preserve">
+    <value>toolStripMenuItem8</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem8.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pizzaToolStripMenuItem.Name" xml:space="preserve">
+    <value>pizzaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;pizzaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;quesoToolStripMenuItem.Name" xml:space="preserve">
+    <value>quesoToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;quesoToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem12.Name" xml:space="preserve">
+    <value>toolStripMenuItem12</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem12.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pepperoniToolStripMenuItem.Name" xml:space="preserve">
+    <value>pepperoniToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;pepperoniToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem13.Name" xml:space="preserve">
+    <value>toolStripMenuItem13</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem13.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;hawaiToolStripMenuItem.Name" xml:space="preserve">
+    <value>hawaiToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;hawaiToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem14.Name" xml:space="preserve">
+    <value>toolStripMenuItem14</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem14.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;champiñonToolStripMenuItem.Name" xml:space="preserve">
+    <value>champiñonToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;champiñonToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem15.Name" xml:space="preserve">
+    <value>toolStripMenuItem15</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem15.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;jambalayaToolStripMenuItem.Name" xml:space="preserve">
+    <value>jambalayaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;jambalayaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;normalToolStripMenuItem.Name" xml:space="preserve">
+    <value>normalToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;normalToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem16.Name" xml:space="preserve">
+    <value>toolStripMenuItem16</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem16.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem17.Name" xml:space="preserve">
+    <value>toolStripMenuItem17</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem17.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;picanteToolStripMenuItem.Name" xml:space="preserve">
+    <value>picanteToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;picanteToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;patatasBravasToolStripMenuItem.Name" xml:space="preserve">
+    <value>patatasBravasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;patatasBravasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem18.Name" xml:space="preserve">
+    <value>toolStripMenuItem18</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem18.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lasagnaToolStripMenuItem.Name" xml:space="preserve">
+    <value>lasagnaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;lasagnaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;raguToolStripMenuItem.Name" xml:space="preserve">
+    <value>raguToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;raguToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem21.Name" xml:space="preserve">
+    <value>toolStripMenuItem21</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem21.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;champiñonToolStripMenuItem1.Name" xml:space="preserve">
+    <value>champiñonToolStripMenuItem1</value>
+  </data>
+  <data name="&gt;&gt;champiñonToolStripMenuItem1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem20.Name" xml:space="preserve">
+    <value>toolStripMenuItem20</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem20.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;espinacaToolStripMenuItem.Name" xml:space="preserve">
+    <value>espinacaToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;espinacaToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem19.Name" xml:space="preserve">
+    <value>toolStripMenuItem19</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem19.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;milanesasToolStripMenuItem.Name" xml:space="preserve">
+    <value>milanesasToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;milanesasToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;polloToolStripMenuItem.Name" xml:space="preserve">
+    <value>polloToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;polloToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem22.Name" xml:space="preserve">
+    <value>toolStripMenuItem22</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem22.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;resToolStripMenuItem.Name" xml:space="preserve">
+    <value>resToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;resToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem23.Name" xml:space="preserve">
+    <value>toolStripMenuItem23</value>
+  </data>
+  <data name="&gt;&gt;toolStripMenuItem23.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;molloConPoleToolStripMenuItem.Name" xml:space="preserve">
+    <value>molloConPoleToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;molloConPoleToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;xdSosMuyCuriosaUwuToolStripMenuItem.Name" xml:space="preserve">
+    <value>xdSosMuyCuriosaUwuToolStripMenuItem</value>
+  </data>
+  <data name="&gt;&gt;xdSosMuyCuriosaUwuToolStripMenuItem.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Cafeteria</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
